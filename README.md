@@ -29,6 +29,15 @@ Features:
 - Prints the user's choice, the computer's choice, and the winner in the console.
 
 #### SLEEP DEBT CALCULATOR ####
+This application calculates and compares a person's actual sleep hours with their ideal sleep hours to determine if they have accumulated a sleep debt or achieved their ideal sleep goals.
+
+Features:
+- Defines sleep hours for each day of the week using the getSleepHours function.
+- Calculates the actual sleep hours for the entire week using the getActualSleepHours function.
+- Defines the ideal sleep hours per day and calculates the ideal sleep hours for the week using the getIdealSleepHours function.
+- Calculates the average sleep hours per day.
+- Compares the actual sleep hours with the ideal sleep hours and provides feedback based on the comparison using the calculateSleepDebt function.
+- Prints the average sleep hours per day, actual sleep hours, ideal sleep hours, and sleep debt message in the console.
 
 #### TRAINING DAYS ####
 This is a simple JavaScript application that generates random events and calculates the training days for each event. It also logs the event and training time for different participants.
