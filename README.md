@@ -9,9 +9,7 @@ DETAILED EXPLANATIONS:
 
 #### TRAINING DAYS ####
 This is a simple JavaScript application that generates random events and calculates the training days for each event. It also logs the event and training time for different participants.
-
 Features:
-
-Generates random events such as Marathon, Triathlon, and Pentathlon.
-Calculates the training days required for each event.
-Logs the event and training time for participants.
+- Generates random events such as Marathon, Triathlon, and Pentathlon.
+- Calculates the training days required for each event.
+- Logs the event and training time for participants.
