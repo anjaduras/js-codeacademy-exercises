@@ -12,6 +12,13 @@ Features:
 - Prints the response in the console.
 
 #### RACE DAY ####
+This is a JavaScript program that assigns race numbers and race times to runners based on their age and the time they arrived for the race.
+
+Features:
+-Generates a random race number between 0 and 1000 for each runner.
+-Determines the race time based on the runner's age and whether they arrived early or not.
+-Prints the race number and race time for each runner in the console.
+
 #### ROCK PAPER SCISSORS ####
 #### SLEEP DEBT CALCULATOR ####
 
