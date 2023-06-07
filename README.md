@@ -20,6 +20,14 @@ Features:
 - Prints the race number and race time for each runner in the console.
 
 #### ROCK PAPER SCISSORS ####
+This is a simple program that allows users to play a game of Rock-Paper-Scissors against the computer.
+
+Features:
+- Prompts the user to choose Rock, Paper, or Scissors.
+- Generates a random choice for the computer.
+- Determines the winner based on the user's choice and the computer's choice.
+- Prints the user's choice, the computer's choice, and the winner in the console.
+
 #### SLEEP DEBT CALCULATOR ####
 
 #### TRAINING DAYS ####
